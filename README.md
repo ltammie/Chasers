@@ -7,7 +7,7 @@ Simple Pac-Man like console-game
 * additional libraries - JCommander for parsong command-line arguments
                        - JCDP (JColor) for beautiful colors
                        
-                       ![](https://github.com/ltammie/Chasers/blob/master/scr/1.png)
+![](https://github.com/ltammie/Chasers/blob/master/scr/1.png)
                        
 # Usage
 Make sure u have installed 
