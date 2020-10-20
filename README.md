@@ -1,6 +1,6 @@
 # INFO
 Simple Pac-Man like console-game
-![](https://github.com/ltammie/Chasers/blob/master/ex/scr.png)
+![](https://github.com/ltammie/Chasers/blob/master/scr/scr.png)
 
 * language - Java
 * platform - macOS
