@@ -20,7 +20,7 @@ mvn -f ChaseLogic clean install && mvn -f Game clean package
 ```
 To start the game:
 ```
-java -jar Game/target/Game-1.0.jar --enemiesCount=2 --wallsCount=5 --size=6 --profile=production
+java -jar Game/target/Chasers-1.0.2.jar --enemiesCount=2 --wallsCount=5 --size=6 --profile=production
 ```
 
 Available command-line arguments:
