@@ -4,7 +4,7 @@ Simple Pac-Man like console-game
 
 * language - Java
 * platform - macOS
-* additional libraries - JCommander for parsong command-line arguments
+* additional libraries - JCommander for parsing command-line arguments
                        - JCDP (JColor) for beautiful colors
                        
 ![](https://github.com/ltammie/Chasers/blob/master/scr/1.png)
